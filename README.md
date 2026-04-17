@@ -64,6 +64,9 @@ streamlit run app.py
 ### Alert / Result
 ![Alert](assets/alert.png)
 
+### Input Detail
+![Input Detail](assest/input_detail.png)
+
 ## Future Enhancements
 - Improve model performance with advanced algorithms  
 - Deploy the application on cloud (Streamlit Cloud)  
