@@ -50,14 +50,13 @@ streamlit run app.py
 - Output: Fire Risk (Low / High)
 - Accuracy: 88%
 
-
 ## Screenshots
 
 ### User Interface
-![UI](assets/ui.png)
+![UI](Screenshot 2026-04-17 151042.png)
 
 ### Prediction Output
-![Output](assets/output.png)
+![Output](Screenshot 2026-04-17 151120.png)
 
 ## Future Enhancements
 - Improve model performance with advanced algorithms  
