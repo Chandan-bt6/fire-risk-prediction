@@ -33,7 +33,7 @@ fire-risk-prediction/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
-git clone https://github.com/your-username/fire-risk-prediction.git
+git clone https://github.com/Chandan-bt6/fire-risk-prediction.git
 cd fire-risk-prediction
 
 2. Install dependencies
