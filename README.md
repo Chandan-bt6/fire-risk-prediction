@@ -49,14 +49,20 @@ streamlit run app.py
 - Input Features: Temperature, Humidity, Wind, etc.
 - Output: Fire Risk (Low / High)
 - Accuracy: 88%
-
+- 
 ## Screenshots
 
 ### User Interface
-![UI](Screenshot 2026-04-17 151042.png)
+![UI](assets/ui.png)
+
+### Input Section
+![Input](assets/input.png)
 
 ### Prediction Output
-![Output](Screenshot 2026-04-17 151120.png)
+![Output](assets/output.png)
+
+### Alert / Result
+![Alert](assets/alert.png)
 
 ## Future Enhancements
 - Improve model performance with advanced algorithms  
